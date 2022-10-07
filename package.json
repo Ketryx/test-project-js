@@ -24,7 +24,7 @@
     "react-scripts": "5.0.0",
     "smallest": "^1.0.1",
     "steal": "<=2.3.0",
-    "typescript": "^4.5.4",
+    "typescript": "^4.8.4",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
