@@ -18,6 +18,7 @@
     "markdown-link-extractor": "< 3.0.2",
     "matrix-js-sdk": "<19.7.0",
     "moment-timezone": "<0.5.35",
+    "next": "*",
     "puppeteer": "18.0.5",
     "react": "^18.0.0-rc.0",
     "react-dom": "^18.0.0-rc.0",
