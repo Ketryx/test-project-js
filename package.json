@@ -14,7 +14,7 @@
     "is-sorted": "^1.0.5",
     "jquery.terminal": "<2.31.1",
     "jwt-simple": "^0.5.6",
-    "lodash": "^4.17.21",
+    "lodash": "^3",
     "markdown-link-extractor": "< 3.0.2",
     "matrix-js-sdk": "<19.7.0",
     "moment-timezone": "<0.5.35",
