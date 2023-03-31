@@ -18,7 +18,7 @@
     "markdown-link-extractor": "< 3.0.2",
     "matrix-js-sdk": "<19.7.0",
     "moment-timezone": "<0.5.35",
-    "puppeteer": "18.0.5",
+    "puppeteer": "19.8.2",
     "react": "^18.0.0-rc.0",
     "react-dom": "^18.0.0-rc.0",
     "react-scripts": "5.0.0",
