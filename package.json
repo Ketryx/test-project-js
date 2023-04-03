@@ -20,7 +20,7 @@
     "moment-timezone": "<0.5.35",
     "puppeteer": "18.0.5",
     "react": "^18.0.0-rc.0",
-    "react-dom": "^18.0.0-rc.0",
+    "react-dom": "^18.2.0",
     "react-scripts": "5.0.0",
     "smallest": "^1.0.1",
     "steal": "<=2.3.0",
