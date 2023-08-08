@@ -17,6 +17,7 @@
     "lodash": "^4.17.21",
     "markdown-link-extractor": "< 3.0.2",
     "matrix-js-sdk": "<19.7.0",
+    "mime-types": "^2.1.35",
     "moment-timezone": "<0.5.35",
     "puppeteer": "18.0.5",
     "react": "^18.0.0-rc.0",
