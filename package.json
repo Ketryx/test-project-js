@@ -1,0 +1,7 @@
+{
+  "name": "yarnv2lockparsing",
+  "packageManager": "yarn@4.0.1",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
