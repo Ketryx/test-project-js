@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "matrix-js-sdk": "^36.0.0",
+    "matrix-js-sdk": "<19.7.0",
     "moment-timezone": "^0.5.46"
   }
 }
